@@ -67,8 +67,8 @@
                     <ul id="dropdown">
                         <li> <a href="#"> 2016 </a></li>
                         <li> <a href="#photos"> 2015 </a></li>
-                        <li> <a href="#"> 2014 </a></li>
-                        <li> <a href="#"> 2013 </a></li>
+                        <!-- <li> <a href="#"> 2014 </a></li>
+                        <li> <a href="#"> 2013 </a></li> -->
                     </ul>
                     </li>
                     <li><a data-scroll href="#location" title="Chariot Hotel Buea, the Venue of SMConf 2016 - Silicon Mountain Conference">Venue</a></li>
