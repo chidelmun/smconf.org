@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://smconf.herokuapp.com)
 smconf.org <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="smconf.org"> [![GitHub issues](https://img.shields.io/github/issues/silicon-mountain/smconf.org.svg)](https://github.com/silicon-mountain/smconf.org/issues) [![GitHub stars](https://img.shields.io/github/stars/silicon-mountain/smconf.org.svg)](https://github.com/silicon-mountain/smconf.org/stargazers) [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/silicon-mountain/smconf.org/master/LICENSE)
 
 
