@@ -1,4 +1,6 @@
 smconf.org <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="smconf.org"> [![GitHub issues](https://img.shields.io/github/issues/silicon-mountain/smconf.org.svg)](https://github.com/silicon-mountain/smconf.org/issues) [![GitHub stars](https://img.shields.io/github/stars/silicon-mountain/smconf.org.svg)](https://github.com/silicon-mountain/smconf.org/stargazers) [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/silicon-mountain/smconf.org/master/LICENSE)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ==============
 
 Silicon Mountain Conference website was created, and is maintained by [The Silicon Mountain](https://github.com/silicon-mountain) developers in Buea. If you want to contribute to this project, fork the repository and follow the steps below to contribute.
